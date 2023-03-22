@@ -1,0 +1,23 @@
+[
+    {
+        "Superheroe": "1",
+        "Nombre": "flying girl",
+        "Años": "21",
+        "Identidad" :"Andrea Urriza",
+        "Superpoderes" : "volar"
+    },
+    {
+        "Superheroe": "2",
+        "Nombre": "strong woman",
+        "Años": "21",
+        "Identidad" :"Paloma Aguilar",
+        "Superpoderes" : "super fuerza"
+    },
+    {
+        "Superheroe": "3",
+        "Nombre": "brain girl",
+        "Años": "21",
+        "Identidad" :"Romina De Anda",
+        "Superpoderes" : "leer mentes"
+    }
+]
